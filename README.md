@@ -7,7 +7,7 @@ Graph neural network for cardiac pressure-volume relationship prediction from ve
 ## Overview
 
 CardioGraphFENet (CGFENet) predicts full-cycle left ventricular pressure and displacement from mesh geometry using a graph-GRU based encoder with dual decoders 
-
+(DATA and output folders: https://drive.google.com/drive/folders/12dGoPfkK8rVjC4E-C8eBKm8VrAoQwhQU)
 **Key Features:**
 - Volume-constrained pressure prediction
 - Forward cycle: Unloaded mesh geometry → pressure, displacement
